@@ -2,7 +2,7 @@
 
 ### Project created with React, NodeJS, Express and MongoDB to clone the famous Stack Overflow website.
 
-## [https://stack-overflow-clone-app.netlify.app](Stack_Overflow_Clone_link)
+## [Stack Overflow Clone Project link](https://stack-overflow-clone-app.netlify.app)
 
 ## Features 
 ### Authentication :
