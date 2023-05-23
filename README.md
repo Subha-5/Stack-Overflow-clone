@@ -17,6 +17,7 @@
 - Tag Questions
 
 NOTE: One needs to login in the app before asking, deleting and answering questions.
+
 NOTE: Deleting can only be done by the owner of the question or answer.
 
 
