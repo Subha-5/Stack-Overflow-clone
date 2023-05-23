@@ -17,14 +17,16 @@
 - NOTE: Deleting can only be done by the owner of the question or answer.
 
 
-# `npm install`
+# How to work on this project
+### After forking the repository and cloning the contents, the contributor should run the following commands in the terminal and then start working on the project
+## `npm install`
 use the above command on the client side to install dependencies
 
-# `npm install`
+## `npm install`
 use the above command on the server side to install dependencies
 
-# `npm start`
+## `npm start`
 use the above command on the client side to run client
 
-# `npm start`
+## `npm start`
 use the above command on the server side to run server
